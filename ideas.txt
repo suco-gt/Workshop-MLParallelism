@@ -20,7 +20,7 @@ Each model takes a couple minutes to train, we should reduce the epochs a bit, b
 
 
 
-
+https://medium.com/@zdj0712/dive-into-tensor-parallelism-building-columnparallellinear-and-rowparallellinear-from-scratch-cf68ce7332d8
 
 
 ===========
