@@ -1,6 +1,9 @@
 Spring26 notes
 
 
+
+
+
 Todo:
 
 slideshow
@@ -141,3 +144,21 @@ Data parallelism
 
 Model parallelism
 coming soon lol
+
+
+
+====================
+
+actual workshop notes
+make sure I have reference of solution next to me
+
+Single GPU
+
+flow, talk about slide,
+open up the code where they are supposed to fill in talk about it
+go back to slide to show reference
+fill in the slide,
+explain the code following up to the next fill in the blank
+go to the next slide
+
+could do a slide after the network slide explaing like more about the linear layer, conv layer, batch norm etc
