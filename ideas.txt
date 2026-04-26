@@ -162,3 +162,14 @@ explain the code following up to the next fill in the blank
 go to the next slide
 
 could do a slide after the network slide explaing like more about the linear layer, conv layer, batch norm etc
+
+
+feedback from dewmo
+
+
+
+
+kaggle setup pdf
+https://drive.google.com/file/d/1u6bURWIZtmCEG84f8y5B3OOFqPMpGk-t/view?usp=sharing
+
+https://github.com/suco-gt/Workshop-MLParallelism
